@@ -1,5 +1,3 @@
-# Python_Dictionaries_Scrabble
-
 # Scrabble
 
 Simple overview of use/purpose.
