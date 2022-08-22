@@ -1,6 +1,6 @@
 # Scrabble
 
-Simple overview of use/purpose.
+As the name suggests, a word based game that can be played with friends.
 
 ## Description
 
